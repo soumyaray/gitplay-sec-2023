@@ -1,3 +1,3 @@
 # My Gitplay Demo Project
 
-Some description
+Project runs at app.rb
