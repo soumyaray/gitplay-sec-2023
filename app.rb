@@ -1,1 +1,1 @@
-# this is a ruby file
+# this is a cool project for Gitplay Demo

@@ -1,4 +1,4 @@
 # My Gitplay Demo Project
 
-Project runs at app.rb
+Project code is at app.rb
 - user must login
